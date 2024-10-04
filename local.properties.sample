@@ -11,7 +11,7 @@ sdk.dir=
 keystore.file=
 
 ## Package name
-app.id=org.example.tgx
+app.id=org.fagram.tgx
 
 ## Project name
 app.name=TGX Example
